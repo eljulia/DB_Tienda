@@ -1,0 +1,41 @@
+﻿EmpleadoID,Nombre,Apellido,Email,SucursalID,FechaIngreso,Cargo,Activo
+1,Carlos,García,carlos.garcía1@tiendalatam.com,1,2020-04-01,Gerente de Sucursal,1
+2,María,López,maría.lópez2@tiendalatam.com,2,2023-04-10,Jefe de Ventas,1
+3,Juan,Martínez,juan.martínez3@tiendalatam.com,3,2021-01-18,Vendedor Senior,1
+4,Ana,Rodríguez,ana.rodríguez4@tiendalatam.com,4,2020-09-30,Vendedor Junior,1
+5,Luis,González,luis.gonzález5@tiendalatam.com,5,2020-03-19,Cajero,1
+6,Laura,Hernández,laura.hernández6@tiendalatam.com,6,2023-05-16,Asesor de Cliente,1
+7,Roberto,Pérez,roberto.pérez7@tiendalatam.com,7,2022-04-19,Gerente de Sucursal,1
+8,Carmen,Sánchez,carmen.sánchez8@tiendalatam.com,8,2020-11-10,Jefe de Ventas,1
+9,Diego,Ramírez,diego.ramírez9@tiendalatam.com,9,2018-11-23,Vendedor Senior,1
+10,Sofía,Torres,sofía.torres10@tiendalatam.com,10,2020-09-12,Vendedor Junior,1
+11,Andrés,Flores,andrés.flores11@tiendalatam.com,11,2018-11-02,Cajero,1
+12,Valentina,Rivera,valentina.rivera12@tiendalatam.com,12,2021-11-24,Asesor de Cliente,1
+13,Miguel,Morales,miguel.morales13@tiendalatam.com,13,2019-10-16,Gerente de Sucursal,1
+14,Camila,Castro,camila.castro14@tiendalatam.com,14,2018-11-28,Jefe de Ventas,1
+15,Pablo,Ortiz,pablo.ortiz15@tiendalatam.com,15,2022-07-22,Vendedor Senior,1
+16,Isabella,Ramos,isabella.ramos16@tiendalatam.com,16,2023-04-06,Vendedor Junior,1
+17,Alejandro,Díaz,alejandro.díaz17@tiendalatam.com,17,2020-07-14,Cajero,1
+18,Lucía,Cruz,lucía.cruz18@tiendalatam.com,18,2020-09-15,Asesor de Cliente,1
+19,Mateo,Reyes,mateo.reyes19@tiendalatam.com,19,2021-08-13,Gerente de Sucursal,1
+20,Paula,Vargas,paula.vargas20@tiendalatam.com,20,2023-01-11,Jefe de Ventas,1
+21,Carlos,García,carlos.garcía21@tiendalatam.com,1,2022-01-20,Vendedor Senior,1
+22,María,López,maría.lópez22@tiendalatam.com,2,2019-04-11,Vendedor Junior,1
+23,Juan,Martínez,juan.martínez23@tiendalatam.com,3,2021-06-06,Cajero,1
+24,Ana,Rodríguez,ana.rodríguez24@tiendalatam.com,4,2023-03-16,Asesor de Cliente,1
+25,Luis,González,luis.gonzález25@tiendalatam.com,5,2021-02-05,Gerente de Sucursal,1
+26,Laura,Hernández,laura.hernández26@tiendalatam.com,6,2018-08-19,Jefe de Ventas,1
+27,Roberto,Pérez,roberto.pérez27@tiendalatam.com,7,2022-09-04,Vendedor Senior,1
+28,Carmen,Sánchez,carmen.sánchez28@tiendalatam.com,8,2020-01-27,Vendedor Junior,1
+29,Diego,Ramírez,diego.ramírez29@tiendalatam.com,9,2021-06-18,Cajero,1
+30,Sofía,Torres,sofía.torres30@tiendalatam.com,10,2021-04-25,Asesor de Cliente,1
+31,Andrés,Flores,andrés.flores31@tiendalatam.com,11,2021-02-03,Gerente de Sucursal,1
+32,Valentina,Rivera,valentina.rivera32@tiendalatam.com,12,2021-11-12,Jefe de Ventas,1
+33,Miguel,Morales,miguel.morales33@tiendalatam.com,13,2018-10-26,Vendedor Senior,1
+34,Camila,Castro,camila.castro34@tiendalatam.com,14,2019-09-02,Vendedor Junior,1
+35,Pablo,Ortiz,pablo.ortiz35@tiendalatam.com,15,2021-12-25,Cajero,1
+36,Isabella,Ramos,isabella.ramos36@tiendalatam.com,16,2020-11-22,Asesor de Cliente,1
+37,Alejandro,Díaz,alejandro.díaz37@tiendalatam.com,17,2022-06-23,Gerente de Sucursal,1
+38,Lucía,Cruz,lucía.cruz38@tiendalatam.com,18,2019-08-11,Jefe de Ventas,1
+39,Mateo,Reyes,mateo.reyes39@tiendalatam.com,19,2021-10-03,Vendedor Senior,1
+40,Paula,Vargas,paula.vargas40@tiendalatam.com,20,2019-09-29,Vendedor Junior,1
